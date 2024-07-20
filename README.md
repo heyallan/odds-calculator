@@ -1,0 +1,2 @@
+# odds-calculator
+Odds calculator
